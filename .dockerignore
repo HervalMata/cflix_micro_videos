@@ -1,0 +1,26 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea
+/.git
+/.docker
+/.k8s
+/node_modules
+/vendor
+.DS_Store
+.editorconfig
+.env.example
+.gitattributes
+.gitignore
+.styleci.yml
+Dockerfile
+Dockerfile.prod
+docker-compose.yaml
+README.md
+bootstrap/cache/*
+database/database.*
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/testing/*
+storage/framework/views/*
+storage/*.key
+*.cache
